@@ -1,1 +1,3 @@
 #gpt-frontend-react
+A gpt frontend using React
+Learning project...
